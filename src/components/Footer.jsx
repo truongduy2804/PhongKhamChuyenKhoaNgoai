@@ -24,7 +24,7 @@ function Footer() {
               Phòng Khám Chuyên Khoa Ngoại
             </Typography>
             <Typography variant="body2" sx={{ color: '#B0BEC5' }}>
-              Chuyên khám và điều trị Trĩ - bệnh lý vùng hậu môn
+              Chuyên khám và điều trị Trĩ - Bệnh Lý Vùng Hậu Môn
             </Typography>
           </Grid>
 
@@ -52,6 +52,10 @@ function Footer() {
                     {' - '}
                     <Link href="tel:0919550080" color="inherit" sx={{ textDecoration: 'none', '&:hover': { textDecoration: 'underline' } }}>
                       0919550080
+                    </Link>
+                    {' - '}
+                    <Link href="tel:0918814717" color="inherit" sx={{ textDecoration: 'none', '&:hover': { textDecoration: 'underline' } }}>
+                      0918814717
                     </Link>
                   </Typography>
                 </Box>
