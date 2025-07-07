@@ -46,7 +46,7 @@ function TriNgoai() {
       </Typography>
       
       <Typography variant="body1" paragraph sx={{ lineHeight: 1.8, fontSize: '1.1rem', my: 3 }}>
-        Trĩ ngoại là tình trạng các búi trĩ hình thành ở bên ngoài, ngay trên bề mặt của hậu môn. Khác với trĩ nội, người bệnh có thể dễ dàng nhận thấy và sờ được búi trĩ ngoại. Tình trạng này tuy không nguy hiểm đến tính mạng ở giai đoạn đầu nhưng gây ra rất nhiều phiền toái, đau đớn và ảnh hưởng trực tiếp đến chất lượng cuộc sống.
+        Trĩ ngoại là tình trạng các búi trĩ hình thành ở bên ngoài, ngay trên bề mặt của hậu môn. Khác với trĩ nội, người bệnh có thể dễ dàng nhận thấy và sờ được búi trĩ ngoại. Tình trạng này tuy không nguy hiểm đến tính mạng ở giai đoạn đầu nhưng gây ra rất nhiều phiền toái, đau đớn và ảnh hưởng trực tiếp đến chất lượng cuộc sống, gây nhiều phiền toái, đau đớn và ảnh hưởng trực tiếp đến cuộc sống hằng ngày.
       </Typography>
 
       {/* Tạm thời vô hiệu hóa banner

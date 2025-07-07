@@ -61,7 +61,7 @@ function PolypHauMon() {
         </CauseListItem>
       </List>
       <Typography variant="body1" sx={{ mt: 3, fontStyle: 'italic', fontWeight: 500, textAlign: 'center', p: 2, backgroundColor: '#E3F2FD', borderRadius: '8px' }}>
-        Liên hệ với chúng tôi để được tư vấn trực tiếp với các chuyên gia về bệnh Polyp hậu có nguy hiểm gì đến sức khỏe của bạn không?
+        Liên hệ với chúng tôi để được tư vấn trực tiếp bởi các chuyên gia: Liệu polyp hậu môn có gây nguy hiểm cho sức khỏe của bạn hay không?
       </Typography>
       
       <Divider sx={{ my: 5 }} />

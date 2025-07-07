@@ -4,7 +4,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { Link as RouterLink, useNavigate } from 'react-router-dom';
 
 const menuConfig = [
-  { label: 'Poly Hậu Môn', path: '/polyp-hau-mon' },
+  { label: 'Polyp Hậu Môn', path: '/polyp-hau-mon' },
   { label: 'Trĩ Nội', path: '/tri-noi' },
   { label: 'Trĩ Ngoại', path: '/tri-ngoai' },
   { label: 'Nứt Kẽ Hậu Môn', path: '/nut-ke-hau-mon' },

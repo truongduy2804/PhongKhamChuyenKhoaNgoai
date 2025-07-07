@@ -31,7 +31,7 @@ function TriHonnHop() {
       
       <Alert severity="warning" sx={{ my: 3 }}>
         <AlertTitle>Thông tin quan trọng</AlertTitle>
-        Trĩ hỗn hợp là dạng bệnh trĩ phức tạp nhất, kết hợp cả trĩ nội và trĩ ngoại. Bệnh thường gây ra nhiều triệu chứng khó chịu và cần được điều trị sớm để tránh biến chứng.
+        Trĩ hỗn hợp là dạng bệnh trĩ phức tạp nhất, kết hợp cả trĩ nội và trĩ ngoại. Bệnh thường gây ra nhiều triệu chứng khó chịu và cần được điều trị sớm để phòng ngừa biến chứng.
       </Alert>
 
       <SectionTitle title="Trĩ hỗn hợp là gì?" />

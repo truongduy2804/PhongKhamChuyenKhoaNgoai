@@ -85,7 +85,7 @@ function TriNoi() {
         <strong>Để chẩn đoán bệnh trĩ nội, bác sĩ chuyên khoa thường thực hiện các bước kiểm tra sau:</strong>
       </CheckListItem>
       <CheckListItem>
-        <strong>Thu thập thông tin bệnh lý:</strong> Bác sĩ sẽ hỏi các câu hỏi về triệu chứng người bệnh đang gặp phải, thói quen ăn uống sinh hoạt, tiền sử bệnh lý của bản thân và gia đình, lịch sử tình dục,... Các thông tin này bác sĩ đưa ra các chỉ định khám - kiểm tra phù hợp.
+        <strong>Thu thập thông tin bệnh lý:</strong> Bác sĩ sẽ hỏi các câu hỏi về triệu chứng người bệnh đang gặp phải, thói quen ăn uống sinh hoạt, tiền sử bệnh lý của bản thân và gia đình, tiền sử quan hệ tình dục,...Dựa trên các thông tin này, bác sĩ sẽ đưa ra chỉ định khám và kiểm tra phù hợp.
       </CheckListItem>
 
       {/* Tạm thời vô hiệu hóa banner
